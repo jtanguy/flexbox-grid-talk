@@ -1,0 +1,64 @@
+= Les nouveautés CSS: Flexbox et Grid
+Julien Tanguy
+v0.1-fr, 2017-11-14: Humantalks
+:homepage: https://github.com/jtanguy/humantalks-grid
+:twitter: jutanguy
+:github: jtanguy
+:blog: https://jtanguy.cleverapps.io
+:backend: revealjs
+:copyright: CC BY 4.0
+:hashtag: #css #grid #flex
+:stem: latexmath
+:source-highlighter: highlightjs
+:revealjsdir: reveal.js
+:revealjs_display: flex
+:revealjs_theme: valwin
+
+[.two-columns]
+== `whoami`
+
+image::images/jutanguy.jpg[]
+
+[.align-left]
+--
+* Développeur chez link:https://www.valwin.fr[Valwin]
+* On recrute !
+
+//
+
+* https://twitter.com/{twitter}
+* https://github.com/{github}
+* {blog}
+--
+
+== CSS
+
+== Flexbox
+
+- Finalisé vers 2015
+- Layout 1D
+
+- <<flexbox-guide>>
+
+== Grid
+
+- Sorti officiellement cet octobre !
+- Layout 2D
+
+- <<grid-guide>>
+- <<mozilla-grid>>
+- <<grid-by-example>>
+
+== Liens
+
+[bibliography]
+* [[[flexbox-guide]]] _A complete guide to flexbox_. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* [[[grid-guide]]] _A complete guide to grid_. https://css-tricks.com/snippets/css/complete-guide-grid/
+* [[[mozilla-grid]]] _Moz://a css grid_. https://www.mozilla.org/en-US/developer/css-grid/?utm_source=desktop-snippet&utm_campaign=CSSgrid&utm_medium=snippet&utm_term=7443&utm_content=night&sample_rate=0.001&snippet_name=7443
+* [[[grid-by-example]]] _Grid by example_. https://gridbyexample.com/
+
+== Merci
+
+* https://twitter.com/{twitter}
+* https://github.com/{github}
+* {blog}
